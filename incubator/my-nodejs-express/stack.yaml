@@ -1,0 +1,13 @@
+name: Node.js Express with Helmet
+version: 0.4.1
+description: Express web framework for Node.js with Helmet
+license: Apache-2.0
+language: nodejs
+maintainers:
+  - name: Sam Roberts
+    email: stu_lipshires@us.ibm.com
+    github-id: slipsibm
+default-template: simple
+requirements:
+  docker-version: ">= 17.09.0"
+  appsody-version: ">= 0.2.7"
